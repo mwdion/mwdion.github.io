@@ -164,7 +164,7 @@ background-color: transparent;
   text-align: center;
 }
 
-#page-contact .contact-info p,h3{
+#page-contact .contact-info p,h3,a{
     font-size:1.2em;
     text-align: center;
     color: white;
