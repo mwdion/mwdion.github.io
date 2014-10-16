@@ -75,6 +75,10 @@ background-color: transparent;
 .navbar-default .navbar-nav>.active>a:focus {
     background: none;
 }
+
+.email{
+  float: right;
+}
 /* ==========================================================================
   Layout 
    ========================================================================== */
